@@ -15,6 +15,10 @@ The Raisin Dataset consists of two raisin types ("Kecimen" and "Besni"), charact
 
 ---
 
+<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/c8b20cf2-9374-4665-9d93-18fe2f6d27b5" />
+
+
+
 ## Dataset
 The **Raisin Dataset** contains 900 samples with the following features:
 - **Area** – Number of pixels within the raisin boundary.
@@ -30,7 +34,6 @@ Dataset source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml
 
 ---
 
-<img width="740" height="491" alt="image" src="https://github.com/user-attachments/assets/61f2cf81-d854-4057-bfae-cf62cbc38924" />
 
 
 ## Project Workflow
