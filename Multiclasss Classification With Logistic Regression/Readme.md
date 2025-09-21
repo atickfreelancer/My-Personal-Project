@@ -177,8 +177,4 @@ This project demonstrates the application of logistic regression to a real-world
 
 ```
 
----
-
-Would you like me to **directly rewrite your uploaded notebook** into a polished, recruiter-ready version with these explanations inside markdown cells and well-commented code, so you can push it straight to GitHub?
-```
 
