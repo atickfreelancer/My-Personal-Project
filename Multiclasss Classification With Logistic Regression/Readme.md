@@ -171,38 +171,6 @@ We evaluate performance using accuracy, precision, recall, and F1-score. The con
 
 ---
 
-## Repository Structure
-
-```
-├── Raisin_Dataset.xlsx        # Dataset
-├── iris.png                   # Example flower visualization (reference image)
-├── notebook.ipynb             # Jupyter notebook with code and explanations
-├── README.md                  # Project documentation
-```
-
----
-
-## Requirements
-
-Install dependencies with:
-
-```bash
-pip install -r requirements.txt
-```
-
-Example `requirements.txt`:
-
-```
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-openpyxl
-```
-
----
-
 ## Conclusion
 
 This project demonstrates the application of logistic regression to a real-world classification dataset. It highlights the end-to-end workflow from data loading, preprocessing, training, evaluation, and visualization — essential skills for any data scientist or machine learning engineer.
