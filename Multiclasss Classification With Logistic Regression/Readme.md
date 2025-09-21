@@ -6,7 +6,9 @@ Here’s what I’ll do for you:
 Here’s a polished version for you:
 
 ````markdown
+
 ### Multiclass Classification with Logistic Regression on Raisin Dataset
+<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/155427de-827c-4d58-a3ac-5b6abf84cc32" />
 
 ### Overview
 This project applies **Logistic Regression** to the **Raisin Dataset** to perform **multiclass classification**. Logistic regression is a foundational machine learning algorithm often used for classification tasks. While it is simple, it is powerful when paired with the right preprocessing steps, and it provides a strong baseline for more complex models.
@@ -14,10 +16,6 @@ This project applies **Logistic Regression** to the **Raisin Dataset** to perfor
 The Raisin Dataset consists of two raisin types ("Kecimen" and "Besni"), characterized by **7 morphological features** extracted from images of raisins. Our goal is to predict the raisin type given these features.
 
 ---
-
-<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/155427de-827c-4d58-a3ac-5b6abf84cc32" />
-
-
 
 
 ## Dataset
