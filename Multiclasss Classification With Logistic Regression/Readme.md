@@ -15,7 +15,8 @@ The Raisin Dataset consists of two raisin types ("Kecimen" and "Besni"), charact
 
 ---
 
-![download](https://github.com/user-attachments/assets/d6f9c6fc-66ad-4173-bf4f-8a5f3fee5597)
+<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/155427de-827c-4d58-a3ac-5b6abf84cc32" />
+
 
 
 
