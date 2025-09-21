@@ -1,4 +1,4 @@
-# My-Personal-Project
+# Data Science-Project
 
 <h2 align="left">Hi ,My name is Md Atick Hassan and I'm from satkhira, Bangladesh.Working as a Data Analyst.</h2>
 
